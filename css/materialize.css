@@ -2130,6 +2130,9 @@
 .white-text {
   color: #FFFFFF !important;
 }
+.bates-color {
+    color: #670808
+}
 
 .transparent {
   background-color: transparent !important;
@@ -4009,7 +4012,7 @@ input[type=range] + .thumb {
 
 nav {
   color: #fff;
-  background-color: #ee6e73;
+  background-color: #961910;
   width: 100%;
   height: 56px;
   line-height: 56px;
